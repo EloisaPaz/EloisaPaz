@@ -1,4 +1,8 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Eloisa%20Paz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eloisa-paz)](https://www.linkedin.com/in/eloisa-paz)
+
+### Hi there, I'm Lolla 👋
+
+<img src="https://media2.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" alt="homer" width="350"/>
 
 <!--
 **EloisaPaz/EloisaPaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
