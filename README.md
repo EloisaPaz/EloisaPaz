@@ -9,7 +9,6 @@
 #### 🌱 I’m currently learning
 
 - *Data science* 
-- *Data engineering*
 
 #### 🌱 Also keep studying
 
