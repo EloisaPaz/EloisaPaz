@@ -19,9 +19,15 @@
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eloisa-paz)](https://www.linkedin.com/in/eloisa-paz)
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:eloisapaz28@gmail.com)
-<td>
-<img width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloisaPaz&hide=html&layout=compact&theme=buefy" />
-<img width="440px" src="https://github-readme-stats.vercel.app/api?username=EloisaPaz&theme=buefy"/></td>
+
+<center>
+  <table>
+    <tr>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloisapaz&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=eloisapaz&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>  
 
  _______ 
 
