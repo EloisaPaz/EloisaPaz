@@ -20,8 +20,8 @@
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eloisa-paz)](https://www.linkedin.com/in/eloisa-paz)
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:eloisapaz28@gmail.com)
 
-<img width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloisaPaz&hide=html&layout=compact&theme=buefy" />
-<img width="440px" src="https://github-readme-stats.vercel.app/api?username=EloisaPaz&theme=buefy"/>
+<img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloisaPaz&hide=html&layout=compact&theme=buefy" />
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=EloisaPaz&theme=buefy"/>
  
  _______ 
 
