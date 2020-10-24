@@ -14,7 +14,7 @@
 - *Java and tests*
 
 <img src="https://media.giphy.com/media/14rI19QbiK3Gxi/giphy.gif" alt="marshall" width="300">
-<img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloisaPaz&hide=html&layout=compact&theme=buefy" />
+<img width="415px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloisaPaz&hide=html&layout=compact&theme=buefy" />
 <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=EloisaPaz&theme=buefy"/>
 
 #### 📫 Contact me: 
