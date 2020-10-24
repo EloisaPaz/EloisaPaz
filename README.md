@@ -1,7 +1,5 @@
 ### Hi there, I'm Lolla 👋
 
-<img align="left" src="https://media2.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" alt="homer" width="300"/>
-
 #### *I'm currently working as a Java software developer with spring framework, my main responsibilities are to build, test, document and monitor services. I study Big Data and Analytical Intelligence in college and have a strong interest in data.*
 
 #### 😄 Pronouns: She/Her
