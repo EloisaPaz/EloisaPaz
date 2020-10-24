@@ -14,13 +14,15 @@
 - *Java and tests*
 
 <img src="https://media.giphy.com/media/14rI19QbiK3Gxi/giphy.gif" alt="marshall" width="300">
-<img width="417px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloisaPaz&hide=html&layout=compact&theme=buefy" />
-<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=EloisaPaz&theme=buefy"/>
 
 #### 📫 Contact me: 
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eloisa-paz)](https://www.linkedin.com/in/eloisa-paz)
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:eloisapaz28@gmail.com)
+
+<img width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloisaPaz&hide=html&layout=compact&theme=buefy" />
+<img width="440px" src="https://github-readme-stats.vercel.app/api?username=EloisaPaz&theme=buefy"/>
+ 
  _______ 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=EloisaPaz" alt="EloisaPaz" /> </p>
