@@ -17,7 +17,7 @@
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloisaPaz&hide=html&layout=compact&theme=buefy" />  
 
- ![Eloisa github stats](https://github-readme-stats.vercel.app/api?username=EloisaPaz&show_icons=true&theme=cobalt)
+<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=EloisaPaz&theme=buefy"/>
 
 #### 📫 Contact me: 
 
